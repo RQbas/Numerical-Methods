@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1457887403 source:c:\users\abc\desktop\backwardforward\mainbf.cpp
+	<stdio.h>
+	<cstdio>
+	<math.h>
+	<iostream>
+
+1457893426 source:c:\users\abc\dropbox\backwardforward\mainbf.cpp
+	<stdio.h>
+	<cstdio>
+	<math.h>
+	<iostream>
+
+1457911393 source:c:\users\rafa³\desktop\nm_3_vs\newton\mainbf.cpp
+	<stdio.h>
+	<cstdio>
+	<math.h>
+	<iostream>
+
