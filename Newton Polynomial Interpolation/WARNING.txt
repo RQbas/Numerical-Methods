@@ -1,0 +1,1 @@
+Newton method allows only to perform interpolation if and only if nodes x are equally spaced. 

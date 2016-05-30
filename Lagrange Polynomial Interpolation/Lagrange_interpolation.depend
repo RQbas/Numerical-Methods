@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457818396 source:c:\users\abc\desktop\lagrange_interpolation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+
+1457820349 source:c:\users\abc\dropbox\lagrange_interpolation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+
+1458223677 source:c:\users\rafa³\desktop\nm_3_vs\lagrange_interpolation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+
