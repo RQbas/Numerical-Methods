@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1460676135 source:c:\users\rafa³\desktop\nm_4\backward_differentation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+	<cstdlib>
+
+1460915017 source:c:\users\abc\dropbox\nm_4\backward_differentation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+	<cstdlib>
+
+1460930237 source:c:\users\rafa³\dropbox\nm_4\backward_differentation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+	<cstdlib>
+
+1461104164 source:c:\users\rafa³\dropbox\nm_4\backward_differentation_v2\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<cmath>
+
