@@ -19,7 +19,7 @@ public class function {
 	}
 	double value(double arg)
 		{
-		double funct_val=-2*arg*Math.sin(arg*arg);
+		double funct_val=2*arg*(-1*Math.cos(Math.pow(arg, 2)))*Math.exp(-1*Math.sin(Math.pow(arg,  2)));
 				
 		return funct_val;
 		

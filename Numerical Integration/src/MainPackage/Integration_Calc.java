@@ -4,8 +4,8 @@ public class Integration_Calc {
 	
 	public static void main(String[] args) {
 		
-	double interval_a=1;
-	double  interval_b=3;
+	double interval_a=-1;
+	double  interval_b=2;
 	
 	function funct= new function(interval_a, interval_b);
 	double[] tab=new double[5];
